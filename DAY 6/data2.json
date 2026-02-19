@@ -1,0 +1,64 @@
+{
+  "favoriteMovies": [
+    {
+      "id": 1,
+      "title": "The Shawshank Redemption",
+      "year": 1994,
+      "genre": ["Drama"],
+      "director": "Frank Darabont",
+      "rating": 9.3,
+      "whyILikeIt": "Inspiring story about hope and never giving up.",
+      "rewatched": true
+    },
+    {
+      "id": 2,
+      "title": "Inception",
+      "year": 2010,
+      "genre": ["Sci-Fi", "Thriller"],
+      "director": "Christopher Nolan",
+      "rating": 8.8,
+      "whyILikeIt": "Mind-blowing concept and amazing visuals.",
+      "rewatched": true
+    },
+    {
+      "id": 3,
+      "title": "Interstellar",
+      "year": 2014,
+      "genre": ["Sci-Fi", "Drama"],
+      "director": "Christopher Nolan",
+      "rating": 8.6,
+      "whyILikeIt": "Emotional sci-fi with deep themes and stunning space scenes.",
+      "rewatched": true
+    },
+    {
+      "id": 4,
+      "title": "The Dark Knight",
+      "year": 2008,
+      "genre": ["Action", "Crime", "Drama"],
+      "director": "Christopher Nolan",
+      "rating": 9.0,
+      "whyILikeIt": "One of the greatest superhero movies ever made.",
+      "rewatched": true
+    },
+    {
+      "id": 5,
+      "title": "Forrest Gump",
+      "year": 1994,
+      "genre": ["Drama", "Romance"],
+      "director": "Robert Zemeckis",
+      "rating": 8.8,
+      "whyILikeIt": "Simple story with powerful life lessons.",
+      "rewatched": true
+    },
+    {
+      "id": 6,
+      "title": "The Matrix",
+      "year": 1999,
+      "genre": ["Sci-Fi", "Action"],
+      "director": "The Wachowskis",
+      "rating": 8.7,
+      "whyILikeIt": "Changed how sci-fi action movies are made.",
+      "rewatched": true
+    }
+  ]
+}
